@@ -2,3 +2,4 @@
 /dist
 /jawanndenn.egg-info
 *.pyc
+.env
