@@ -1,1 +1,1 @@
-web: gunicorn jawanndenn.app.wsgi --log-file -
+web: gunicorn jawanndenn.wsgi --log-file -
