@@ -1,5 +1,6 @@
 /build
 /dist
 /jawanndenn.egg-info
+/.idea
 *.pyc
 .env

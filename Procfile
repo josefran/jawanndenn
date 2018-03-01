@@ -1,0 +1,1 @@
+web: gunicorn jawanndenn/app.wsgi --log-file -
