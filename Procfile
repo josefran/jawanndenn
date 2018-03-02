@@ -1,1 +1,1 @@
-web: gunicorn jawanndenn.wsgi --log-file -
+web: gunicorn jawanndenn.wsgi -w 1 --threads 10 --log-file -
